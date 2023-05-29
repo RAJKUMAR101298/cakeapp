@@ -1,0 +1,16 @@
+#carouselExampleFade{
+width: 100%;
+height: 50%;
+
+}
+.container-fluid{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* .card-body{
+    display: grid;
+} */
+#footer{
+    width: 100%;
+    
+}
